@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= artist.name %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+    <header>
+        <h1>Universe of Art 🎨🖌️</h1>
+    </header>
+    <h2>Conheça <%= artist.name %> e sua história...</h2>
+    <div class="artist-detail">
+        <img src="<%= artist.image %>" alt="<%= artist.name %>">
+        <p><%= artist.description %></p>
+    </div>
+    <a href="/">Voltar</a>
+</body>
+</html>

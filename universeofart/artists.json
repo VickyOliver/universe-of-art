@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Vincent Van Gogh",
+      "birth": "1853",
+      "death": "1890",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/250px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "description": "Pintor pós-impressionista holandês, famoso por suas cores vibrantes e pinceladas expressivas."
+    },
+    {
+      "id": 2,
+      "name": "Leonardo da Vinci",
+      "birth": "1452",
+      "death": "1519",
+      "image": "https://cdn.universoracionalista.org/wp-content/uploads/2021/10/leonardo-da-vinci-e1634382367389.jpg",
+      "description": "Gênio renascentista, artista e inventor, conhecido por obras como Mona Lisa e A Última Ceia."
+    },
+    {
+      "id": 3,
+      "name": "Frida Kahlo",
+      "birth": "1907",
+      "death": "1954",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+      "description": "Pintora mexicana, conhecida por seus autorretratos e representações da cultura mexicana."
+    }
+  ]
+  
