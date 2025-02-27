@@ -5,23 +5,25 @@
       "birth": "1853",
       "death": "1890",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/250px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
-      "description": "Pintor pós-impressionista holandês, famoso por suas cores vibrantes e pinceladas expressivas."
+      "description": "Vicent foi um pintor pós impressionista e neerlandês. Considerado uma das figuras mais famosas e influentes da história da arte ocidental,  criou mais de dois mil trabalhos ao longo de pouco mais de uma década, incluindo 860 pinturas à oléo, grande parte das quais, concluídas nos seus últimos dois anos de vida. As suas obras incluem paisagens, natureza-morta, retratos e autoretratos caracterizados por cores dramáticas e vibrantes, além de pinceladas impulsivas e expressivas, que contribuíram para as fundações da arte moderna e trouxeram distinção para o estilo do pintor. Nascido numa família de classe média alta, Van Gogh começou a desenhar ainda criança, Trabalhou como vendedor de arte quando jovem e viajava frequentemente. Porém, entrou em depressão depois de ser transferido para Londres."
     },
+
     {
       "id": 2,
       "name": "Leonardo da Vinci",
       "birth": "1452",
       "death": "1519",
       "image": "https://cdn.universoracionalista.org/wp-content/uploads/2021/10/leonardo-da-vinci-e1634382367389.jpg",
-      "description": "Gênio renascentista, artista e inventor, conhecido por obras como Mona Lisa e A Última Ceia."
+      "description": "Leonardo da Vinci foi um polímata (indivíduo com conhecimento avançado em diversas áreas do conhecimento) do período do Renascimento. Era filho ilegítimo de um notário florentino e desde cedo teve grande interesse pelas artes, ingressando em um ateliê como aprendiz de artista na sua adolescência. Durante a sua vida passou por diferentes locais da Península Itálica, como Florença, Milão, Veneza e Roma, realizando trabalhos nas mais variadas áreas. Em suas anotações foi encontrada uma série de invenções que ele projetou, e ele é autor da obra de arte mais conhecida da história: a Mona Lisa."
     },
+
     {
       "id": 3,
       "name": "Frida Kahlo",
       "birth": "1907",
       "death": "1954",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
-      "description": "Pintora mexicana, conhecida por seus autorretratos e representações da cultura mexicana."
+      "description": "Frida Kahlo foi umas das mais importantes pintoras mexicanas do século XX, e destacou-se por ser uma artista singular. Com uma produção bastante autobiográfica, Frida retratava temas e angústias pessoais. Entretanto, sua obra acabou comunicando-se e inspirando diversas mulheres, de forma que a artista se tornou um símbolo para o movimento feminista. Embora tenha tido uma vida muito conturbada, desde a saúde e relacionamentos, ela era dona de um espírito revolucionário e militou no partido comunista mexicano. Lutou pelos direitos das mulheres e valorizou muito a cultura indígena do povo andino, sendo também referência na cultura latino americana. Seus autorretratos e representações da cultura mexicana."
     }
   ]
   

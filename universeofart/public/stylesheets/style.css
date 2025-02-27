@@ -2,7 +2,7 @@
   margin: 0px;
 }
 body {
-  font-family: Arial, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   background-color: #f4f4f4;
   display: flex;
@@ -20,6 +20,12 @@ header {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.container-artist{
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -50,6 +56,14 @@ header {
   border-radius: 10px;
 }
 
+.artist-detail {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-inline:15%;
+  padding-bottom: 30px;
+}
+
 footer {
   display: flex;
   text-align: center;
@@ -58,3 +72,83 @@ footer {
   background-color: #E8E8E8;
   height: 5rem;
 }
+
+/* Estilos específicos para a página Van Gogh */
+.vangogh-container {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.vangogh-container img {
+  width: 200px;
+  border-radius: 10px;
+  border: 3px solid purple;
+}
+
+.vangogh-container p {
+  font-size: 18px;
+  color: #333;
+}
+
+.vangogh-container .back-link {
+  text-decoration: none;
+  color: purple;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.conheca{
+  padding:30px;
+}
+
+
+.custom-btn {
+  background-color: #372c3f; /* Roxo mais escuro */
+  color:rgb(246, 244, 246);
+  border-radius: 5px; 
+  border: 1px solid rgb(147, 101, 158);
+
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.search-container input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(128, 126, 126);
+}
+
+.search-container button {
+  background-color: rgb(236, 235, 235);
+  border: 1px solid #ccc;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+body {
+  background-image: url('wallpaper'); /* Caminho relativo dentro de /public */
+  background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita que a imagem se repita */
+  height: 100vh; /* Define altura total da tela */
+  margin: 0; /* Remove margens padrão */
+  padding: 0;
+}
+
+
