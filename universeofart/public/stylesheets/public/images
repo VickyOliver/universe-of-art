@@ -1,7 +1,0 @@
-/public
-   /images
-      fundo.jpg
-   /stylesheets
-      style.css
-/views
-   index.ejs
